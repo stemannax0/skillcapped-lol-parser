@@ -36,6 +36,7 @@ If you're not sure how, check over here! https://stackoverflow.com/questions/252
 - Automate the cleaning up of the links
 - Set a way to check the boxes for different roles, categories of videos, etc.
 - Make a downloader for the links parsed.
+- No need to install dependencies
 
 
 **Special thanks to**
