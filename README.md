@@ -1,6 +1,6 @@
 # skill-capped-lol-link-parser
 
-This is my first ever actual code, so do not be too harsh!
+**Deprecated**
 
 This project parses links from https://better-skill-capped.com/ and returns them in the IDE.
 After parsing links, you can set up VLC or another Media player to play them.
